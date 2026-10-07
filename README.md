@@ -101,6 +101,7 @@ You can start contributing by adding the following:
 | [Magic Hour](https://magichour.ai/) | [Link](https://docs.magichour.ai) | Magic Hour offers a single API for AI video (Sora 2, Veo 3.1, Kling 3.0, Seedance, WAN) and image generation (GPT-image, Nano Banana Pro, Flux), plus face swap, lip sync and talking photo |
 | [TeamoRouter](https://teamorouter.cn) | [Link](https://teamorouter.cn/docs) | LLM API gateway with OpenAI-compatible endpoints plus a native Anthropic Messages API — Claude Code and Codex connect by changing only the base URL |
 | [Bifrost](https://www.getmaxim.ai/bifrost) | [Link](https://docs.getbifrost.ai/) | Go-native, OpenAI-compatible AI gateway with multi-provider routing, automatic failover, load balancing, guardrails, MCP gateway support, and built-in logs, metrics, and tracing |
+| [apimodels.app](https://apimodels.app/) | [Link](https://apimodels.app/docs) | One API key for about 150 image, video, audio and language models through OpenAI-compatible endpoints and the Anthropic Messages API. Pay per use; failed calls are not charged |
 
 ## Other AI Tools
 
